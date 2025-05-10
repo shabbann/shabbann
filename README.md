@@ -37,5 +37,5 @@ I'm kinda lazy, but when I'm not I love to build things</p>
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/gRdwvb1ZRZkAAAAd/higurashi-no-naku-koro-ni-mal-piro.gif" width="300px"/>
+  <img src="vibe_cat.gif" width="300px"/>
 </p>
