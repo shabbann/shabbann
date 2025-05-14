@@ -30,7 +30,7 @@ I'm kinda lazy, but when I'm not I love to build things</p>
 
 ---
 
-**connect with me on the most hated websites in the 21's century:**  
+**connect with me on the two most hated websites in the 21st century:**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-shaban-9716831b6/)  
 - 🐦 [x](https://x.com/ahmdshhhh/)
 
