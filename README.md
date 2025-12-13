@@ -4,6 +4,7 @@ I just like to build things</p>
 
 - Built to learn
   - https://github.com/shabbann/boids-algorithm
+  - https://github.com/shabbann/xv7-riscv
 - Built to solve
   - https://github.com/shabbann/greedynet (I hope I finish it oneday)
 
