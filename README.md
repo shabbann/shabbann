@@ -1,2 +1,2 @@
-<p align="center">Hi, I'm Ahmed 👋
+<p align="center">Hi, I'm Ahmad 👋
 
